@@ -33,7 +33,7 @@
 - **Database:** MySQL, PostgreSQL  
 - **Tools & Technologies:** Git, Docker, Firebase, Postman
 
-  <div style="font-size: 24px;">
+  <div style="font-size: 100px;">
         ### 🛠 Tools & Technologies:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
