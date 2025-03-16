@@ -31,9 +31,10 @@
 - **Frontend:** JavaScript, HTML, CSS, Tailwind CSS, TypeScript, React, Bootstrap  
 - **Backend:** PHP, Laravel, C#, C++, Node.js  
 - **Database:** MySQL, PostgreSQL  
-- **Tools & Technologies:** Git, Docker, Firebase, Postman  
+- **Tools & Technologies:** Git, Docker, Firebase, Postman
 
-### 🛠 Tools & Technologies:
+  <div style="font-size: 24px;">
+        ### 🛠 Tools & Technologies:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -51,6 +52,9 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+  </div>
+
 
 ## 📬 Contact Me:
 <p align="center">
