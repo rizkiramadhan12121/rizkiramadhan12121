@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Passionate+about+Coding+%26+Tech;Always+Learning+New+Things" alt="Typing Animation" />
 </p>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=rizkiramadhan12121&theme=tokyonight)
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rizkiramadhan12121&theme=tokyonight)
 
 
