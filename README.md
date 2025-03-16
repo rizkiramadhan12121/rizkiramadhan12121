@@ -26,7 +26,11 @@
 - 🎯 My goal: **Becoming a Full-Stack Developer**  
 - ⚡ Fun fact: I love **gaming, football, and coding!**  
 
-![Snake animation](https://github.com/rizkiramadhan12121/rizkiramadhan12121/blob/output/github-contribution-grid-snake.svg)
+### 🐍 Snake Animation  
+<p align="center">
+  <img src="https://github.com/rizkiramadhan12121/rizkiramadhan12121/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
 
 
 
