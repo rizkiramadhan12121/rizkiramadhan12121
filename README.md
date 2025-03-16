@@ -32,8 +32,7 @@
 - **Backend:** PHP, Laravel, C#, C++, Node.js  
 - **Database:** MySQL, PostgreSQL  
 - **Tools & Technologies:** Git, Docker, Firebase, Postman
-
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; font-size: 54px;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; font-size: 54px;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -51,6 +50,12 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SweetAlert-FF5F6D?style=for-the-badge&logo=sweetalert&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flaticon-00C4CC?style=for-the-badge&logo=flaticon&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Icon8-26A69A?style=for-the-badge&logo=icon8&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white"/>
 </div>
 
 
