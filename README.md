@@ -29,6 +29,7 @@
 ![Snake animation](https://github.com/rizkiramadhan12121/rizkiramadhan12121/blob/output/github-contribution-grid-snake.svg)
 
 
+
 ## 🚀 Tech Stack:
 - **Frontend:** JavaScript, HTML, CSS, Tailwind CSS, TypeScript, React, Bootstrap  
 - **Backend:** PHP, Laravel, C#, C++, Node.js  
