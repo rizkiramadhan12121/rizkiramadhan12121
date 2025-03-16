@@ -26,13 +26,6 @@
 - 🎯 My goal: **Becoming a Full-Stack Developer**  
 - ⚡ Fun fact: I love **gaming, football, and coding!**  
 
-### 🐍 Snake Animation  
-<p align="center">
-  <img src="https://github.com/rizkiramadhan12121/rizkiramadhan12121/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
-
-
 
 ## 🚀 Tech Stack:
 - **Frontend:** JavaScript, HTML, CSS, Tailwind CSS, TypeScript, React, Bootstrap  
