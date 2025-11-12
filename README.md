@@ -20,6 +20,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkiramadhan12121&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+kiiyyyyannnn
+
 ## 🤓 About Me:
 - 🔭 I’m currently working on **Web Development & Backend Development**  
 - 🌱 I’m currently learning **Next.js & Go**  
